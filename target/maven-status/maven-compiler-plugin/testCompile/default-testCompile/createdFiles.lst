@@ -1,0 +1,7 @@
+base\BaseTest.class
+pages\ProductPage.class
+pages\CartPage.class
+pages\HomePage.class
+pages\SearchResultsPage.class
+stepdefinitions\AmazonSteps.class
+runner\TestRunner.class
